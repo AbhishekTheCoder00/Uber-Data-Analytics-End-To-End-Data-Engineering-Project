@@ -37,7 +37,7 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 
 1. Review the data dictionary.
 2. Open Jupyter Notebook to read CSV data.
-3. Create a data model with fact and dimension tables.
+3. Create a data model with fact and dimension tables.(using lucid.app)
 4. Use the `info` function to check data types.
 5. Convert date columns to a standard format.
 6. Write data transformation code.

@@ -6,7 +6,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ## Architecture
 
-![Project Architecture](architecture.jpg)
+![Project Architecture](Architecture Diagram.jpg)
 
 ## Technology Used
 
@@ -29,7 +29,7 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 
 ## Data Model
 
-![Data Model](data_model.jpeg)
+![Data Model](Uber Data Model.jpeg)
 
 ## Project Workflow
 

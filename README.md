@@ -6,7 +6,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 ## Architecture
 
-![Project Architecture](Architecture Diagram.jpg)
+![Project Architecture](https://github.com/AbhishekTheCoder00/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/Architecture%20Diagram.jpg)
 
 ## Technology Used
 
@@ -29,7 +29,7 @@ The project uses the TLC Trip Record Data, which contains Yellow and green taxi 
 
 ## Data Model
 
-![Data Model](Uber Data Model.jpeg)
+![Data Model](https://github.com/AbhishekTheCoder00/Uber-Data-Analytics-End-To-End-Data-Engineering-Project/blob/main/Uber%20Data%20Model.jpeg)
 
 ## Project Workflow
 
